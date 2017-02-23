@@ -1,7 +1,4 @@
 i have a apple
 i have a pen
-<<<<<<< HEAD
-Creating a new branch is quick and fast
-=======
-Creating a new branch is quick and fast
->>>>>>> dev1
+Creating a new branch is quick and fast!!!
+
